@@ -1,6 +1,6 @@
 The goal of this project was to forecast CPI in Poland for 1 month into the future
 
-The project was co-made with Michal (https://www.linkedin.com/in/michalpobuta/)
+The project was co-made with Michal (https://github.com/michalpobuta)
 
 Files in this repo:
 	- Summary.pdf -> extensive summary of the entire project with final conclusions and proposed ML models
